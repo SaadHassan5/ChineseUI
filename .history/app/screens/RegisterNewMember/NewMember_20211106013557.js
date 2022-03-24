@@ -1,0 +1,14 @@
+import React from 'react';
+import { View, } from 'react-native';
+import { palette } from '../../assets/config/colors';
+
+const NewMember =(props)=>{
+    return(
+        <View style={{flex:1,backgroundColor:palette.white}}>
+            <TouchableOpacity onPress={() => props.navigation.goBack()} style={{ position: 'absolute', left: WP(8), top: HP(4) }}>
+                <SVGS.backArrow />
+            </TouchableOpacity>
+        </View>
+    )
+}
+export default NewMember;

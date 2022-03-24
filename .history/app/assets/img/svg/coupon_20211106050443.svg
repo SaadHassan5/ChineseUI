@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_140" data-name="Rectangle 140" width="40.699" height="35.121" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_124" data-name="Rectangle 124" fill="none" stroke="#e6e6e6" stroke-width="2">
+    <rect width="55" height="55" rx="11" stroke="none"/>
+    <rect x="1" y="1" width="53" height="53" rx="10" fill="none"/>
+  </g>
+  <g id="Group_835" data-name="Group 835" transform="translate(7.5 9.838)">
+    <g id="Group_834" data-name="Group 834" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Path_8878" data-name="Path 8878" d="M3.95,34.49a.649.649,0,0,1-.649-.649V1.791a.649.649,0,0,1,.649-.649H22.574a.649.649,0,1,1,0,1.3H4.6v31.4a.65.65,0,0,1-.649.649" transform="translate(-0.053 -0.018)" fill="#606060"/>
+      <path id="Path_8879" data-name="Path 8879" d="M13.75,13.223a8.206,8.206,0,0,1,6.83,3.206.287.287,0,0,0,.528-.155V7.548a3.325,3.325,0,0,1-3.326-3.326H9.708A3.325,3.325,0,0,1,6.383,7.548v8.738a.287.287,0,0,0,.529.154,8.2,8.2,0,0,1,6.837-3.218M12.284,8.8a1.33,1.33,0,1,1,1.33,1.33,1.33,1.33,0,0,1-1.33-1.33" transform="translate(-0.102 -0.068)" fill="#fd5d14"/>
+      <path id="Path_8880" data-name="Path 8880" d="M6.911,20.2a.287.287,0,0,0-.529.154v8.738A3.326,3.326,0,0,1,9.708,32.42h8.073a3.325,3.325,0,0,1,3.326-3.326V20.367a.287.287,0,0,0-.528-.154,8.206,8.206,0,0,1-6.83,3.206A8.2,8.2,0,0,1,6.911,20.2m6.7,6.315a1.33,1.33,0,1,1-1.33,1.33,1.33,1.33,0,0,1,1.33-1.33" transform="translate(-0.102 -0.322)" fill="#fd5d14"/>
+      <path id="Path_8881" data-name="Path 8881" d="M18.475,18.487c0,.307-.209.649-.465.649h-.453a2.363,2.363,0,0,1-.639,1.434,1.726,1.726,0,0,1-.929.5.328.328,0,0,1-.3-.1.589.589,0,0,1-.157-.471v-.079a.509.509,0,0,1,.327-.539c.512-.14.737-.584.737-1.36a1.462,1.462,0,0,0-.309-.963.957.957,0,0,0-.771-.347.847.847,0,0,0-.778.412,3.648,3.648,0,0,0-.337,1.083c-.286,1.415-.9,2.132-1.813,2.132a1.753,1.753,0,0,1-1.294-.431,3.156,3.156,0,0,1-.63-1.272h-.5c-.257,0-.465-.342-.465-.649s.209-.649.465-.649h.509a2.855,2.855,0,0,1,.543-1.2,1.637,1.637,0,0,1,.618-.4.412.412,0,0,1,.388.056.652.652,0,0,1,.257.535.6.6,0,0,1-.32.565.762.762,0,0,0-.339.281,1.378,1.378,0,0,0-.218.794,1.272,1.272,0,0,0,.265.844.825.825,0,0,0,.666.307c.309,0,.531-.21.682-.642.1-.415.208-.839.308-1.262.347-1.177.978-1.771,1.877-1.771a2.012,2.012,0,0,1,1.4.494,2.069,2.069,0,0,1,.719,1.4h.5c.257,0,.465.342.465.649" transform="translate(-0.156 -0.256)" fill="#fd5d14"/>
+      <path id="Path_8882" data-name="Path 8882" d="M40.05,35.673H.649a.649.649,0,0,1,0-1.3h39.4a.649.649,0,0,1,0,1.3" transform="translate(0 -0.552)" fill="#606060"/>
+      <rect id="Rectangle_126" data-name="Rectangle 126" width="11.26" height="4.331" transform="translate(24.253 15.632)" fill="#fd5d14"/>
+      <rect id="Rectangle_127" data-name="Rectangle 127" width="2.166" height="3.464" transform="translate(26.419 20.829)" fill="#1c1c1c"/>
+      <rect id="Rectangle_128" data-name="Rectangle 128" width="2.166" height="3.464" transform="translate(31.182 20.829)" fill="#1c1c1c"/>
+      <rect id="Rectangle_129" data-name="Rectangle 129" width="2.599" height="3.464" transform="translate(28.584 30.358)" fill="#1c1c1c"/>
+      <rect id="Rectangle_130" data-name="Rectangle 130" width="2.166" height="3.464" transform="translate(33.348 30.358)" fill="#1c1c1c"/>
+      <rect id="Rectangle_131" data-name="Rectangle 131" width="2.166" height="3.464" transform="translate(24.253 30.358)" fill="#1c1c1c"/>
+      <rect id="Rectangle_132" data-name="Rectangle 132" width="2.599" height="3.032" transform="translate(28.584 0.474)" fill="#1c1c1c"/>
+      <rect id="Rectangle_133" data-name="Rectangle 133" width="2.599" height="3.032" transform="translate(28.584 11.735)" fill="#1c1c1c"/>
+      <rect id="Rectangle_134" data-name="Rectangle 134" width="3.032" height="2.599" transform="translate(33.997 6.321)" fill="#1c1c1c"/>
+      <rect id="Rectangle_135" data-name="Rectangle 135" width="3.032" height="2.599" transform="translate(22.737 6.321)" fill="#1c1c1c"/>
+      <rect id="Rectangle_136" data-name="Rectangle 136" width="3.032" height="2.598" transform="translate(31.874 3.792) rotate(-45)" fill="#1c1c1c"/>
+      <rect id="Rectangle_137" data-name="Rectangle 137" width="3.032" height="2.598" transform="translate(23.912 11.754) rotate(-45)" fill="#1c1c1c"/>
+      <rect id="Rectangle_138" data-name="Rectangle 138" width="2.598" height="3.032" transform="translate(31.874 11.448) rotate(-45)" fill="#1c1c1c"/>
+      <rect id="Rectangle_139" data-name="Rectangle 139" width="2.598" height="3.032" transform="translate(23.912 3.485) rotate(-45)" fill="#1c1c1c"/>
+      <path id="Path_8883" data-name="Path 8883" d="M30.106,15.588A7.794,7.794,0,0,1,30.055,0h.053a7.794,7.794,0,0,1,.051,15.588Zm0-14.289h-.045a6.495,6.495,0,0,0,.043,12.989h.044A6.495,6.495,0,0,0,30.108,1.3" transform="translate(-0.358 0)" fill="#606060"/>
+      <path id="Path_8884" data-name="Path 8884" d="M30.154,12.631a4.788,4.788,0,0,1-.1-9.575h.1a4.787,4.787,0,0,1,.1,9.574h-.1m0-8.276h-.075a3.489,3.489,0,0,0-2.341,6.006,3.406,3.406,0,0,0,2.488.969,3.488,3.488,0,0,0-.073-6.976" transform="translate(-0.407 -0.049)" fill="#1c1c1c"/>
+      <path id="Path_8885" data-name="Path 8885" d="M36.538,35.362a.649.649,0,0,1-.649-.649V16.306H24.628V34.713a.65.65,0,0,1-1.3,0V15.656a.649.649,0,0,1,.649-.649h12.56a.649.649,0,0,1,.649.649V34.713a.65.65,0,0,1-.649.649" transform="translate(-0.374 -0.241)" fill="#606060"/>
+      <path id="Path_8886" data-name="Path 8886" d="M36.112,21.148H24.418a.649.649,0,1,1,0-1.3H36.112a.649.649,0,0,1,0,1.3" transform="translate(-0.381 -0.318)" fill="#606060"/>
+      <path id="Path_8887" data-name="Path 8887" d="M34.379,25.99H24.417a.649.649,0,0,1,0-1.3h9.962a.649.649,0,1,1,0,1.3" transform="translate(-0.381 -0.396)" fill="#606060"/>
+      <path id="Path_8888" data-name="Path 8888" d="M35.679,30.831H24.418a.649.649,0,1,1,0-1.3h11.26a.649.649,0,0,1,0,1.3" transform="translate(-0.381 -0.474)" fill="#606060"/>
+    </g>
+  </g>
+</svg>
